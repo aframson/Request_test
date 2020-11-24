@@ -1,0 +1,13 @@
+.feeds{
+    border: 1px solid;
+    padding: 10px;
+    width:300px;
+}
+.ch{
+    padding:7px;
+    /* background-color: rgb(14, 124, 214);/ */
+    /* color: white; */
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 1px solid;
+}
