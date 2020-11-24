@@ -1,6 +1,22 @@
 $(function () {
     
 
+// exapmple of a request  = 'route.php?func=functionName'
+
+// exapmple of a selector  = $() | (.)  for class and (#) for id 
+
+
+// you can use the $().load() built-in  API in jquery 
+
+/*
+    selector.load(request)
+
+
+*/
+
+
+// you can use the $.ajax({}) built-in  API in jquery 
+
 
 
 

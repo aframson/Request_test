@@ -14,7 +14,6 @@ function AliceRequest()
 
 
   // echo your response ...
-    
 }
 
 
